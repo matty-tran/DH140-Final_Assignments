@@ -21,7 +21,7 @@ Across the thousands of games from the CORGIS dataset, I plan to analyze "succce
 
 ## Conclusion 
 
-I hope that from this project I can gain some persepctive of what makes a "good" game, and how any traits of such games can be included in gamified teaching. Additionally, I hope to develop my skills in working with datasets, as well as the tools needed to analyze them and create meaningful visualizations. Througout this project I would like to develop my skills of transforming raw data into meaningful conclusions that are supplemented by data visualizations. 
+I hope that from this project I can gain some persepctive of what makes a "good" game, and how any traits of such games can be included in gamified teaching. Additionally, I hope to develop my skills in working with datasets, as well as the tools needed to analyze them and create meaningful visualizations. Througout this project I would like to improve being abke to transform raw data into meaningful conclusions that are supplemented by data visualizations. 
 
 P.S. 
 Sorry this assignment is late-- I lost power for 20 hours in my apartment TT 
